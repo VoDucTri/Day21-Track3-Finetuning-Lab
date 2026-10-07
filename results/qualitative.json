@@ -1,0 +1,38 @@
+[
+  {
+    "i": 3,
+    "ticket": "Cho mình hỏi, mình đặt bình giữ nhiệt mã đơn VN804124. Chưa thấy tiền.",
+    "ft_score": 0.75,
+    "ft_pred": "{\"intent\": \"hoan_tien\", \"urgency\": \"trung_binh\", \"product\": \"bình giữ nhiệt\", \"sentiment\": \"trung_tinh\"}"
+  },
+  {
+    "i": 5,
+    "ticket": "Shop ơi, mình đặt nồi chiên không dầu mã đơn DH249548. Thiếu phụ kiện.",
+    "ft_score": 0.75,
+    "ft_pred": "{\"intent\": \"san_pham_loi\", \"urgency\": \"trung_binh\", \"product\": \"nồi chiên không dầu\", \"sentiment\": \"trung_tinh\"}"
+  },
+  {
+    "i": 12,
+    "ticket": "Shop ơi, mình đặt áo khoác gió mã đơn VN613097. Bị lỗi. Khi nào tiện.",
+    "ft_score": 0.75,
+    "ft_pred": "{\"intent\": \"san_pham_loi\", \"urgency\": \"trung_binh\", \"product\": \"áo khoác gió\", \"sentiment\": \"trung_tinh\"}"
+  },
+  {
+    "i": 47,
+    "ticket": "Cho mình hỏi, mình đặt ốp lưng điện thoại mã đơn DH936478. Shipper khô",
+    "ft_score": 1.0,
+    "ft_pred": "{\"intent\": \"van_chuyen\", \"urgency\": \"thap\", \"product\": \"ốp lưng điện thoại\", \"sentiment\": \"tieu_cuc\"}"
+  },
+  {
+    "i": 48,
+    "ticket": "Alo shop, mình đặt ốp lưng điện thoại mã đơn DH734695. Giá bao nhiêu.",
+    "ft_score": 1.0,
+    "ft_pred": "{\"intent\": \"hoi_thong_tin\", \"urgency\": \"trung_binh\", \"product\": \"ốp lưng điện thoại\", \"sentiment\": \"trung_tinh\"}"
+  },
+  {
+    "i": 49,
+    "ticket": "Chào shop, mình đặt ốp lưng điện thoại mã đơn VN833689. Sai màu. Sớm n",
+    "ft_score": 1.0,
+    "ft_pred": "{\"intent\": \"san_pham_loi\", \"urgency\": \"trung_binh\", \"product\": \"ốp lưng điện thoại\", \"sentiment\": \"tieu_cuc\"}"
+  }
+]
