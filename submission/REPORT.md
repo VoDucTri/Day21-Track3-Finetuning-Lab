@@ -114,8 +114,8 @@ Trộn thêm 3% dữ liệu hội thoại tổng quát (replay buffer) vào tậ
 
 ## Phụ lục — thưởng đã làm
 
-- [x] B1 NB6 merge + hot-swap (đã kiểm chứng mã nguồn trong notebook 06)
+- [ ] B1 NB6 merge + hot-swap
 - [ ] B2 dataset miền riêng (`data/CUSTOM_DATASET.md`)
 - [ ] B3 reasoning-trace collapse (hai `MASK_MODE`, kèm `valid_trace_rate`)
 - [ ] B4 quét rank có kiểm soát
-- [x] B5 HuggingFace Hub
+- [ ] B5 HuggingFace Hub
